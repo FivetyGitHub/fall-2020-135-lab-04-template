@@ -1,10 +1,10 @@
 * Fall 2020 - Lab 04
 
-* Last name:
+* Last name:Lam
 
-* First name:
+* First name:Damon
 
-* GitHub username:
+* GitHub username:FivetyGitHub
 
 * Notes:
 
